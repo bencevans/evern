@@ -1,4 +1,4 @@
-# ![](./1_Desktop_Icons/icon_048.png) Evern
+# ![](./static/1_Desktop_Icons/icon_048.png) Evern
 
 > Unofficial Evernote App wrapping Web UI
 
